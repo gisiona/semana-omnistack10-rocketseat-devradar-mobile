@@ -5,8 +5,9 @@ import { StatusBar } from 'react-native'
 
  function App() {
   return (
-    <>
-      <StatusBar barStyle="light-content" backgroundColor="#7d40e7" />
+   // equivalente ao component Fragment 
+    <> 
+      <StatusBar barStyle="light-content" backgroundColor="#ffc107" />
       <Routes />
     </>
   );

@@ -1,3 +1,5 @@
+# semana-omnistack10-rocketseat-devradar-mobile
+Aplicativo mobile DevRadar desenvolvido com conhecimentos adqueridos durante a semana omnistack 10 com React Native
 
 
 # Lids utilizadas no projeto
